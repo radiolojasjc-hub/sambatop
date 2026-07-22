@@ -47,5 +47,18 @@
   {"id":46,"artist":"Zeca Pagodinho","title":"Vacilão","genero":"SAMBA","src":"Zeca-vac.m4a"},
   {"id":47,"artist":"Naquela Mesa Part Nattan","title":"Zezo Sem Fronteiras","genero":"SAMBA","src":"Zezo_na-quela.m4a"},
   {"id":48,"artist":"Gaab","title":"Davi Quaresma","genero":"SAMBA","src":"Davi_Quaresma,_Gaab.m4a"},
-  {"id":49,"artist":"Dilsinho ","title":"Some","genero":"SAMBA","src":"Dilsinho-Some.m4a"}
+  {"id":49,"artist":"Dilsinho ","title":"Some","genero":"SAMBA","src":"Dilsinho-Some.m4a"},
+  {"id":50,"artist":"-de-ouros","title":"Espumas-ao-vento-dimitria","genero":"MPB","src":"4-de-ouros_Espumas-ao-vento-dimitria.mp3"},
+{"id":51,"artist":"Pericles-Demonios-da-Garoa","title":"Iracema","genero":"MPB","src":"Pericles-Demonios-da-Garoa_Iracema.mp3"},
+{"id":52,"artist":"Péricles","title":"Péricles Demônios da Garoa - Trem das Onze Nos Trilhos do Samba","genero":"MPB","src":"Pericles-Demonios-daGaroa-Trem-dasOnze.mp3"},
+{"id":53,"artist":"Cabide","title":"Ana Carolina","genero":"MPB","src":"Ana-ca-cabide.m4a"},
+{"id":54,"artist":"Bruno","title":"Diegues part Thiago Soares","genero":"MPB","src":"Bruno_Diegues_part_Thiago_Soares.m4a"},
+{"id":55,"artist":"Conselho","title":"Almir Guineto","genero":"MPB","src":"Conselho_Almir_Guineto.m4a"},
+{"id":56,"artist":"Decio","title":"Paparico-Paparico-Cilada","genero":"MPB","src":"Decio_Paparico-Paparico-Cilada.m4a"},
+{"id":57,"artist":"Desse","title":"Jeito Ruim pra Mim Belo","genero":"MPB","src":"Desse_Jeito_Ruim_pra_Mim_Belo.m4a"},
+{"id":58,"artist":"HenriqueCasttro-Grupo-Menos-Mais","title":"Nem-Pagando","genero":"MPB","src":"HenriqueCasttro-Grupo-Menos-Mais_Nem-Pagando.m4a"},
+{"id":59,"artist":"Ivete","title":"Sangalo Ah Como Eu Te Amei","genero":"MPB","src":"Ivete_Sangalo_Ah_Como_Eu_Te_Amei.m4a"},
+{"id":60,"artist":"Leandro","title":"Sapucahy Naquela Mesa SAMBA","genero":"MPB","src":"Leandro_Sapucahy_Naquela_Mesa_SAMBA.m4a"},
+{"id":61,"artist":"Periclis","title":"pout-pourri","genero":"MPB","src":"Periclis_pout-pourri.m4a"}
+]
 ]
