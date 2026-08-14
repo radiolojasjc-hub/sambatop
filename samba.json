@@ -103,6 +103,12 @@
 {"id":102,"artist":"K10","title":"Libera Ela","genero":"SAMBA","src":"LiberaEla_K10.m4a"},
 {"id":103,"artist":"Thiaguinho","title":"Marra De Durao Supera","genero":"SAMBA","src":"MarraDeDuraoSupera_Thiaguinho.opus"},
 {"id":104,"artist":"SPC","title":"Sai da Minha Aba","genero":"SAMBA","src":"SaidaMinhaAba_SPC.opus"},
-{"id":105,"artist":"LUDMILLA","title":"Vou pro Sereno eu Segredo","genero":"SAMBA","src":"VouproSerenoeuSegredo_LUDMILLA.m4a"} 
+{"id":105,"artist":"LUDMILLA","title":"Vou pro Sereno eu Segredo","genero":"SAMBA","src":"VouproSerenoeuSegredo_LUDMILLA.m4a"},
+  {"id":106,"artist":"Xande de Pilares","title":"Valeu Raoni Estrela da Paz Deixa Clarear","genero":"SAMBA","src":"ValeuRaoniEstreladaPazDeixaClarear_XandedePilares.mp3"},
+{"id":107,"artist":"Pericles Marvvila","title":"Aguas Passadas Por Que Sorriso","genero":"SAMBA","src":"AguasPassadasPorQueSorriso_PericlesMarvvila.mp3"},
+{"id":108,"artist":"Menos e Mais","title":"Essa Tal Liberdade","genero":"SAMBA","src":"EssaTalLiberdade_MenoseMais.mp3"},
+{"id":109,"artist":"Pixote","title":"Nem de Gra","genero":"SAMBA","src":"NemdeGra_Pixote.mp3"},
+{"id":110,"artist":"SPC","title":"Interfone","genero":"SAMBA","src":"Interfone_SPC.mp3"},
+{"id":111,"artist":"Turma do Pagode","title":"Lancinho","genero":"SAMBA","src":"Lancinho_TurmadoPagode.mp3"}
 ]
 
