@@ -1,4 +1,14 @@
 [
 {"id":1,"artist":"esperança","title":"Beth_Carvalho-Amor_sem","genero":"POP","src":"Beth_Carvalho-Amor_sem_esperanca.mp3"},
-{"id":2,"artist":"Clipe Oficial","title":"Nattan   Cama e Mesa","genero":"POP","src":"Nattan_Cama_e_Mesa_Clipe_Oficial.m4a"}
+{"id":2,"artist":"Clipe Oficial","title":"Nattan Cama e Mesa","genero":"POP","src":"Nattan_Cama_e_Mesa_Clipe_Oficial.m4a"},
+ {"id":3,"artist":"","title":"","genero":"POP","src":""},
+  {"id":4,"artist":"VÁRIOS ARTEITAS","title":"Poder da Criação","genero":"SAMBA","src":"Poder_da_Criacao_VARIOS_ARTEITAS.mp3"},
+{"id":5,"artist":"DONA","title":"Prea comeu","genero":"SAMBA","src":"Prea_comeu_DONA.mp3"},
+{"id":6,"artist":"BETH CAVALHO","title":"Saco de Feijão","genero":"SAMBA","src":"Saco_de_Feijao_BETH_CAVALHO.mp3"},
+{"id":7,"artist":"BETH CAVALHO","title":"Olho por Olho","genero":"SAMBA","src":"Olho_por_Olho_BETH_CAVALHO.mp3"},
+{"id":8,"artist":"Péricles Demônios da Garoa","title":"Apaga o Fogo Mané Nos Trilhos do Samba","genero":"SAMBA","src":"Apaga_o_Fogo_Mane_Nos_Trilhos_do_Samba_Pericles_Demonios_da_Garoa.mp3"},
+{"id":9,"artist":"Péricles Demônios da Garoa","title":"Iracema Nos Trilhos do Samba","genero":"SAMBA","src":"Iracema_Nos_Trilhos_do_Samba_Pericles_Demonios_da_Garoa.mp3"},
+{"id":10,"artist":"Péricles Demônios da Garoa","title":"Mariposas Volta por Cima Nos Trilhos do Samba","genero":"SAMBA","src":"Mariposas_Volta_por_Cima_Nos_Trilhos_do_Samba_Pericles_Demonios_da_Garoa.mp3"},
+{"id":11,"artist":"Péricles Demônios da Garoa","title":"Péricles Demônios da Garoa Samba do Arnesto Nos Trilhos do Samba","genero":"SAMBA","src":"Pericles_Demonios_da_Garoa_Samba_do_Arnesto_Nos_Trilhos_do_Samba_Pericles_Demonios_da_Garoa.mp3"},
+{"id":12,"artist":"Péricles Demônios da Garoa","title":"Saudosa Maloca Nos Trilhos do Samba","genero":"SAMBA","src":"Saudosa_Maloca_Nos_Trilhos_do_Samba_Pericles_Demonios_da_Garoa.mp3"}
 ]
