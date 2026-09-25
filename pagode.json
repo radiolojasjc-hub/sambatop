@@ -102,5 +102,13 @@
 {"id":100,"artist":"na-quela","title":"Zezo","genero":"PAGODE","src":"Zezo_na-quela.m4a"},
 {"id":101,"artist":"Espumas-ao-vento-dimitria","title":"4-de-ouros","genero":"PAGODE","src":"-de-ouros_Espumas-ao-vento-dimitria.mp3"},
 {"id":102,"artist":"OsTravessos","title":"Adivinha","genero":"PAGODE","src":"Adivinha_OsTravessos.opus"},
-{"id":103,"artist":"Pericles Marvvila","title":"AguasPassadasPorQueSorriso","genero":"PAGODE","src":"AguasPassadasPorQueSorriso_Pericles_Marvvila.mp3"}
+{"id":103,"artist":"Pericles Marvvila","title":"AguasPassadasPorQueSorriso","genero":"PAGODE","src":"AguasPassadasPorQueSorriso_Pericles_Marvvila.mp3"},
+  {"id":105,"artist":"Thiaguinho","title":" Em Busca Da Minha Sorte","genero":"PAGODE","src":"Thia._e_Blly_SP_-_Em_Bsca_Da_m._Srte_Thiaguinho.mp3"},
+{"id":106,"artist":"Netinho de Paula","title":"Sem Abuso Maneiras","genero":"PAGODE","src":"Grs_Neti._de_Pla_Chri._Marc._A._s_Abso_Netinho_de_Paula.mp3"},
+{"id":107,"artist":"Netinho de Paula","title":"Cohab City Vem Pra Cá Beijo Geladinho","genero":"PAGODE","src":"Cohab_City_Vem_Pra_Ca_Beijo_Geladinho_Netinho_de_Paula.mp3"},
+{"id":108,"artist":"Grupo do Bola","title":"Brilho de Cristal Gente da Gente","genero":"PAGODE","src":"Brilho_de_Cristal_Gente_da_Gente_Grupo_do_Bola.mp3"},
+{"id":109,"artist":"Thiaguinho","title":"Ela É Demais Tardezinha no Mineirão","genero":"PAGODE","src":"Ela_E_Demais_Tardezinha_no_Mineirao_Thiaguinho.mp3"},
+{"id":110,"artist":"Bokaloka","title":"Shortinho Saint-Tropez / Pareço um Menino","genero":"PAGODE","src":"Shortinho_Saint-Tropez_Pareco_um_Menino_Bokaloka.mp3"},
+{"id":111,"artist":"Maria Rita","title":"Água De Chuva No Mar Pagode do Pericão","genero":"PAGODE","src":"Mra_Rta_-_Aga_De_Chva_No_M._Pago._do_Peri._SP_Maria_Rita.mp3"},
+{"id":112,"artist":"Pericles","title":"Simplesmente Acontece","genero":"PAGODE","src":"Simplesmente_Acontece_Pericles.mp3"}
 ]
